@@ -9,8 +9,9 @@ window.addEventListener('load', () => {
     const checkMedia = () => {
         if(window.innerWidth < 769) {
             const flex = document.querySelectorAll(".flex")[0];
-            const classesToRemove = ["flex", "flex-column"]
-            flex ? flex.classList.remove(...classesToRemove) : null;
+            const classesToRemove = ["flex", "flex-column", "padding-2rem-x-1rem-y"];
+            const classesToAdd = ["padding-1rem"];
+            flex ? (flex.classList.remove(...classesToRemove), flex.classList.add(...classesToAdd)) : null;
         }
     };
     checkMedia();
