@@ -125,7 +125,7 @@ cite {
     display: inline-block;
 }
 .font-sm {
-    font-size: .8rem;
+    font-size: .8rem !important;
 }
 
 
