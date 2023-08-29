@@ -1,2 +1,4 @@
 # ProLearnerHub.github.io
-<a href="[http://example.com/](https://prolearnerhub.github.io)" target="_blank">Live link</a>
+[Live link](https://prolearnerhub.github.io)
+
+	- Open in new tab if you want to keep this one open
