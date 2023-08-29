@@ -59,6 +59,15 @@ main p {
 .padding-1rem {
     padding: 1rem;
 }
+.margin-1rem {
+    margin: 1rem;
+}
+.margin-05rem-r {
+    margin-right: 0.5rem;
+}
+.margin-1rem-b {
+    margin-bottom: 1rem;
+}
 .margin-3rem-y {
     margin: 3em 0;
 }
@@ -100,11 +109,20 @@ cite {
     text-align: right;
     width: 100%;
 }
+.width-40 {
+    width: 40%;
+}
 .update-img {
     width: 87%;
 }
 .text-gray {
     color: #666;
+}
+.border {
+    border: 1px solid #666;
+}
+.inline {
+    display: inline-block;
 }
 
 
