@@ -124,6 +124,9 @@ cite {
 .inline {
     display: inline-block;
 }
+.font-sm {
+    font-size: .8rem;
+}
 
 
 @media screen and (max-width:1100px) {
